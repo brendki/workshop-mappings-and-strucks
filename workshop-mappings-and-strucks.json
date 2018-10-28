@@ -1,10 +1,9 @@
 {
-    "title": "Solidity Basic Syntax",
+    "title": "Mappings and Strucks",
     "version": "1.0.0",
     "icon": "/test/icon.svg",
     "chat": "https://gitter.im/ethereum/play",
     "lessons": [{
-      "title": "Mappings and Strucks",
       "lesson": "https://www.youtube.com/watch?v=gfXewa4xmYE",
       "tool": "https://solidity.readthedocs.io/en/v0.4.24/types.html#mappings",
   
